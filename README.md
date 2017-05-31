@@ -5,7 +5,7 @@
 
 ## Tags:
 * [![](https://images.microbadger.com/badges/version/n0trace/frpc.svg)](https://microbadger.com/images/n0trace/frpc "Get your own version badge on microbadger.com")
-
+* [![](https://images.microbadger.com/badges/version/n0trace/frpc:arm.svg)](https://microbadger.com/images/n0trace/frpc:arm "Get your own version badge on microbadger.com")
 
 ---
 ### run
