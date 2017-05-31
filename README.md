@@ -4,8 +4,8 @@
 
 
 ## Tags:
-* [![](https://images.microbadger.com/badges/version/n0trace/gunicorn-flask.svg)](https://microbadger.com/images/n0trace/gunicorn-flask "Get your own version badge on microbadger.com") flask running on python 3.5
-* [![](https://images.microbadger.com/badges/version/n0trace/gunicorn-flask.svg)](https://microbadger.com/images/n0trace/gunicorn-flask "Get your own version badge on microbadger.com") flask running on python 2.7
+* [![](https://images.microbadger.com/badges/version/n0trace/gunicorn-flask.svg)](https://microbadger.com/images/n0trace/gunicorn-flask "Get your own version badge on microbadger.com")
+* [![](https://images.microbadger.com/badges/version/n0trace/gunicorn-flask:py2.svg)](https://microbadger.com/images/n0trace/gunicorn-flask:py2 "Get your own version badge on microbadger.com")
 
 ---
 This image is used to run flask applications. To start a container use
