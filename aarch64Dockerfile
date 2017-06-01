@@ -1,4 +1,4 @@
-FROM scratch
+FROM forumi0721/debian-aarch64-base
 MAINTAINER n0trace,<n0trace@protonmail.com>
 
 WORKDIR /var/frp
