@@ -1,0 +1,9 @@
+
+FROM n0trace/yarn
+MAINTAINER n0trace <n0trace@protonmail.com>
+
+RUN yarn global add anyproxy@beta
+RUN yarn cache clean
+EXPOSE 8001 8002
+
+ENTRYPOINT anyproxy
