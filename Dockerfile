@@ -6,4 +6,4 @@ RUN apt-get update && \
 RUN pip install --no-cache-dir scrapy==1.4.0
 VOLUME /app
 WORKDIR /app
-ENTRYPOINT ["scrapy"]
+CMD ["scrapy"]

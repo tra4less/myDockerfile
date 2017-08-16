@@ -9,4 +9,4 @@ In a fast, simple, yet extensible way.
 
 ---
 
-- workspace `app`
+- workspace `/app`
