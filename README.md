@@ -1,12 +1,15 @@
-## [scrapy](https://scrapy.org) is an open source and collaborative framework for extracting the data you need from websites.
-In a fast, simple, yet extensible way.
+## [scrapyd](https://github.com/scrapy/scrapyd) a service daemon to run Scrapy spiders
 
-[![](https://images.microbadger.com/badges/image/n0trace/scrapy.svg)](https://microbadger.com/images/n0trace/scrapy "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/n0trace/scrapyd.svg)](https://microbadger.com/images/n0trace/scrapyd "Get your own image badge on microbadger.com")
 
 
 ## Tags:
-* [![](https://images.microbadger.com/badges/version/n0trace/scrapy.svg)](https://microbadger.com/images/n0trace/scrapy "Get your own version badge on microbadger.com")
+* [![](https://images.microbadger.com/badges/version/n0trace/scrapyd.svg)](https://microbadger.com/images/n0trace/scrapyd "Get your own version badge on microbadger.com")
 
 ---
 
-- workspace `/app`
+## Run:
+
+```
+docker run -p 6800:6800 -d n0trace/scrapyd
+```
