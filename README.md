@@ -1,2 +1,1 @@
-# myDockerfile
-myDockerfile
+clone esme518/docker-shadowsocksr
