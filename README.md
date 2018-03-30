@@ -17,7 +17,7 @@
 docker run --name anyproxy --restart=always \
 	-p 8001:8001\
 	-p 8002:8002 \
-	-d n0trace/anyproxy:beta
+	-d n0trace/anyproxy
 ```
 
 ## test
