@@ -19,4 +19,4 @@ docker run --name frps --restart=always \
 	-d n0trace/frps
 ```
 
-`-v /var/frp/conf/frps.ini:frps.ini` -  specifies the path to the file named frps.ini, which should be your frps config file
+`-v frps.ini:/etc/frp/frps.ini` -  specifies the path to the file named frps.ini, which should be your frps config file
