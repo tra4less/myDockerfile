@@ -7,3 +7,4 @@ RUN yarn global add anyproxy@beta &&\
 EXPOSE 8001 8002
 
 ENTRYPOINT anyproxy
+
