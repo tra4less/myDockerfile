@@ -6,4 +6,5 @@ RUN apt-get update && \
 RUN pip install --no-cache-dir scrapyd
 COPY conf/scrapyd.conf /etc/scrapyd/scrapyd.conf
 EXPOSE 6800
+WORKDIR /scrapyd
 CMD ["scrapyd"]
