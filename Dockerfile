@@ -7,5 +7,5 @@ RUN apk update &&\
     echo "Asia/Shanghai" > /etc/timezone
 RUN pip install --upgrade --no-cache-dir setuptools==45.2.0
 RUN pip install --no-cache-dir spiderkeeper
-EXPOSE 5000 6800
+EXPOSE 5000
 CMD ["spiderkeeper"]
